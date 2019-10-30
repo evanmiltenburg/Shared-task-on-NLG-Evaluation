@@ -13,6 +13,7 @@ We encourage original contributions, for example:
 - looking at individual differences in human evaluation (e.g. studying differences in ratings between L1 and L2-speakers).
 - carrying out a qualitative study (error analysis) of the differences between the systems.
 - comparing evaluation scores for different constructs: fluency, naturalness, grammaticality, readability, correctness, …
+- discussing the feasibility of 'overall quality' metrics.
 - studying task effects on human evaluation scores. Does response type (e.g. continuous scale versus 5 or 7-point Likert scale) or formulation of the goal of the task influence the scores?
 - comparing different implementations of the ‘same’ automatic evaluation metrics.
 
