@@ -20,7 +20,7 @@ The shared task data consists of three kinds of ‘output’ texts:
 
 We will run all standard evaluation metrics on the shared task data. These scores will be made public, along with the shared task data. The different categories (system, human, synthetic) will be made public at a later date, but preceding the workshop.
 
-# Goals
+## Goals
 
 - To establish differences and similarities between different evaluation strategies.
 - To study variability in human judgments.
@@ -36,3 +36,7 @@ We will run all standard evaluation metrics on the shared task data. These score
 - Notification of acceptance
 - Camera-ready deadline
 - Workshop
+
+## Organizing committee
+
+We're still looking for volunteers. Use issue #1 to express your interest in joining the effort to make this event happen.
